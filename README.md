@@ -26,6 +26,8 @@ Latest version of Discord.py running on a load balanced **Zerops Python** servic
 
 <br/>
 
+[Click here](https://app.zerops.io/recipe/discord-bots) to test Discord bot on every available runtime examples.
+
 ## Setting up Environment Variables
 
 The steps mentioned here are to be followed after deploying the app and will guide you on how to obtain the two required environment variables to run your Discord.js Bot.
