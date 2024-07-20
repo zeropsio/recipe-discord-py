@@ -1,5 +1,5 @@
 zerops:
-  - setup: bot
+  - setup: discordpy
     build:
       base: python@3.12
       deployFiles: /~

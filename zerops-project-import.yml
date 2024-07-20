@@ -4,6 +4,6 @@ project:
     - zerops-recipe
 
 services:
-  - hostname: bot
-    type: pyth
-    buildFromGit: https://github.com/zeropsio/recipe-discordjs-bun
+  - hostname: discordpy
+    type: python@3.12
+    buildFromGit: https://github.com/zeropsio/recipe-discord-py
