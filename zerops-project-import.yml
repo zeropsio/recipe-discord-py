@@ -1,0 +1,9 @@
+project:
+  name: recipe-discordjs
+  tags:
+    - zerops-recipe
+
+services:
+  - hostname: bot
+    type: pyth
+    buildFromGit: https://github.com/zeropsio/recipe-discordjs-bun
