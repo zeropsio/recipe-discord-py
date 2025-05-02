@@ -7,3 +7,6 @@ services:
   - hostname: discordpy
     type: python@3.12
     buildFromGit: https://github.com/zeropsio/recipe-discord-py
+    envSecrets:
+      DISCORD_CLIENT_ID: # You can find your client id at https://discord.com/developers/applications
+      DISCORD_TOKEN: # You can find your discord token at https://discord.com/developers/applications
